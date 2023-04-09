@@ -1,0 +1,4 @@
+2023-04-08T18:46:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\solitech-i-commerce\wp-includes\functions.php on line 4550
+
+2023-04-08T18:46:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\solitech-i-commerce\wp-content\plugins\google-listings-and-ads\src\API\Site\Controllers\Jetpack\AccountController.php on line 15
+
